@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Novasrikanth/coc1.git/static/css/main.f13275d7.css",
+    "main.js": "/Novasrikanth/coc1.git/static/js/main.baf970c4.js",
+    "static/js/787.f0e5f2f8.chunk.js": "/Novasrikanth/coc1.git/static/js/787.f0e5f2f8.chunk.js",
+    "index.html": "/Novasrikanth/coc1.git/index.html",
+    "main.f13275d7.css.map": "/Novasrikanth/coc1.git/static/css/main.f13275d7.css.map",
+    "main.baf970c4.js.map": "/Novasrikanth/coc1.git/static/js/main.baf970c4.js.map",
+    "787.f0e5f2f8.chunk.js.map": "/Novasrikanth/coc1.git/static/js/787.f0e5f2f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f13275d7.css",
+    "static/js/main.baf970c4.js"
+  ]
+}
