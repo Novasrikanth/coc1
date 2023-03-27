@@ -32,6 +32,51 @@
     transform: rotate(360deg);
   }
 }
+
 a:hover{
-  background-color: rgb(53, 148, 67);
+  background-color: rgb(167, 163, 148);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #4793a8;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #b1a4a4;
+}
+
+li:last-child {
+  border-right: none;
+}
+h1{
+  background-color:white;
+  color: rgb(185, 218, 36);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.person-contact{
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+h5{
+  background-color:  #4793a8;
+  color: white;
+  margin-bottom: 50px;
 }
